@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1,CARACOL TV
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CpoF5jNV7FuJZhwMhTdODHDkQve9IF2RpcI_x7YfByuisiME5guTONGrsUnDvoqifOYVuKf-rZNZrjcfiB0KIzwU3n17LHxIMk4TN7d0Af73eQkEUneddvzsiWhLFvsia8RgWVxXLUWreFXlww092z-AB8ej6de8hu3Q8GfraaN4THsGyoBPRUH8S5ypTHKYG790UjjzNaY_ipJC3MXAYXuUtuXUwJkTrpUvWEBclziW2l_HcA4DBRg75jXg0wOJJtuO96grJy057GoBTZYgYK9vFuPutQLbROftD9wLtZA4XiAZHXUWASe_6LVApyTPldViCqt7WlMUSToSZaJVfc86BCIi1AfKCW63uRynGDD9Pu4G379Trv5CIhpFJvNYYppUzNaKVdbYiKyWAL53I199BPD6j4MbYjzoqk0Z9Nzs1rkFFKBTmr5TldZtSQtkscLrLhVkYcbR3NPriWJ3PakaG5Cb74g39QIrVCpLyaqU9aAplmNDbI-Qw2iUYlp4a7BKMoJs-n4bDq15Po79_w1OU-F_oYsOwdj684cvJ2T_3p1mke3fwHPslmW4Rs-M6metfIO2GxSn1uwoUBKPU5ouN4TZJ9-513lPdfV9FJxMNLh951zK0i8AXY-OBCJaA2dsgsMjvrFmuju-2hh5RldqeJsLP8qGF4xtEudn29WQdaG8AvtU3Tzu19i3HFZrofD9BJT3ivRhKt5VAe0cZZLrVuUNs5lpj9EqExBTPaSEQC6P2-N0fdO8vP7ehbI3NkocWq0JgJT45OabrOiUw0du0EXFAwPX__jDQRHVlCdXsJukf32422tOtIcnT3R4z4Oe7-kt9FdjOGOaE864V_nMSqbvtR9V58F-MGno4Q0WM4OhXEuuvcRL4td9GgwT_xncu7-SWQGugdQgASoJZXUtd2VzdC0yMKYG.m3u8
+#EXTINF:-1,CARACOL HD
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://co-e7-p-e-cl2.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_1000.m3u8?aid=574462d1cab0f4d50866f001&uid=Uezm8lXKWuMiROWFnbRk195LLNFoYMHl&sid=MX1gS0dejMGwBehIEEFxUYdP0UdkjhuE&pid=Yaz4p7idTQCow6UHS0HA4M8q1oiucVVD&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e7-p-e-cl2.cdn.mdstrm.com&ote=1681238553379&ot=AZRVUyZXQNUa2FaLAPiovg&proto=https&pz=us
+#EXTINF:-1,CARACOL HD
+https://ssh101.bozztv.com/ssh101/caradfvdga2/chunks.m3u8?nimblesessionid=5387077
+#EXTNINF:-1,CARACOL HD2
+https://ssh101.bozztv.com/ssh101/caradfvdga2/chunks.m3u8?nimblesessionid=5389969
+#EXTINF:-1,RCN
+https://ssh101.bozztv.com/ssh101/rawegrgwr/chunks.m3u8?nimblesessionid=5387914
+#EXTINF:-1,RCN HD
+https://ssh101.bozztv.com/ssh101/rawegrgwr/chunks.m3u8?nimblesessionid=5388435
+#EXTINF:-1,CANAL 1
+https://ssh101.bozztv.com/ssh101/u1dfhserdhse/chunks.m3u8?nimblesessionid=5388615
+#EXTINF:-1,CANAL 1 HD
+https://ssh101.bozztv.com/ssh101/u1dfhserdhse/chunks.m3u8?nimblesessionid=5388919
+#EXTINF:-1,CITY TV
+https://ssh101.bozztv.com/ssh101/ctyerfhse/chunks.m3u8?nimblesessionid=5389219
+#EXTINF:-1,CITY TV HD
+https://ssh101.bozztv.com/ssh101/ctyerfhse/chunks.m3u8?nimblesessionid=5389487
+#EXTINF:-1,CANAL RED+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
+#EXTINF:-1,SEÑAL COLOMBIA
+https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
+#EXTINF:-1,MI GENTE TV
+https://hvtrafico.ddns.net/migente720/migente720.stream/chunklist_w671503140.m3u8
+#EXTINF:-1,CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
+#EXTINF:-1,TELEPACIFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000_sles.m3u8
+#EXTINF:-1,CNC TULUA
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://streamtech.ml:5443/cnctulua/streams/054789868834271693532511.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1,TELENOVELAS
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvcE7IEXiCY51jqIL2UUwcSbZG_XJ_D0CFLQ0wSGoJrVJaARzMxaO1mO3pPGHj71ZfBK2V4lVU18pRHzbmFO_v9TZCGnfqfmapy7ZuW1zd8pakoqN2FrBy7kYc2HrBmXOxQVyCj9YC2IVaAbv8BA2u7OcfyXmHSrgw33yRQSrVOYuGPlCz3yYoUEVm7XwjKeKoTqxWbwh0Ad1-GxdvwmczoyfL46vQk-ii1Ay39BHaeYbnm3TKnU4NvZZYzc5aWNtgH0t81z-7_K32BXjnkeHEIYiD1EW_w3_EWT-71-_0KqPEN_7srHqe-678P7CBELGqZWy9fukrZFmOMeFaGh20s_nOGVc7fHx2WCtAaLfU7yZj-ELv83Ar-fvFNZirMX75yMfE2XPgS14tBV96GKW6nk5v-4XfSwED4nNAzUbpnefwtkrTQkJB4dLr7rzly9G6ADKVS9LL1ggeXhUBdKgnhxmgwc489S6q-cRTr5evKDU0kkHVY0lU49FvmsG9FujHSQCQf0lYtFfLNeaK-XcH71bsgHrY7FenSzXDQuMuJ_swUcs-HWDjn1JdC8-Q568sMa0ykyisU12HCXdIRDVamYitX_VvuoA6v9m_UVe7d49zLXqpqnTlAgvToV63lsuv0B0tUfaG6eDFR4HL-DQewyPHEdQ_KxVnLE3-pYmSt9EEGQxvcMtEf3eLmsCK1uRJ4s4pFMYzQ7l3rfdofSKpr4SfHFdbfE8riOXGffZrzD_yDUPe-OCzacOpgdzCjJSUZ81HGfO6bFVUQt07xr8ZCZrDjidNck_FJvYJ1EuJRvebBmajOGHPQmsKByAJAtL15jhMzr4sHW7hoM3JiAbdkQQXZKwgGMIAEqCWV1LXdlc3QtMjCmBg.m3u8
+#EXTINF:-1,TELEMUNDO
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cv0Ed78dRgKmyjzIg4uZJOHhiKQ6PVv2BFqYgM4IVZ-vLIDrfFW9d81udCgDppo9tT4biwQwgSnGFrWD3TKwyuGt5iQfKxyV5bEaxv7hSc-VjcdppkRnGUF1tesprcBfzQeWzzwJqIDYVmaovwYUwFXxpow3xe8_WC_pmZ1tTAIxFPilAdyU_ZrhcS1-0U5KyQ8FJm9Ue4jTdz6HfEyLA-v5per9Pvdlzhl2rxwyHJIHIeMjDJcQkxveDGPOgK-REq5sVapCmMuIYoRTZAj9LPmyyRWfoJRdcNBtDcz1zrArIU9MdTV6fDJ4BoxIeVxN4t9SCFh8djHtVZT6gWhjSHcNik5tMS-dEDmVVupQzjfjaGVVQqcdLr6aZmZwOhODJ8R7AQbsHANWdn098b8Qy_a2rLkZjRypeV_aGhAuEZfYNF6-1wUjez6Gs-XpM6tuK9l9vYMT6mSaZfjVPGZ9b6u-WGp1VVugRXp6rDeUQ7IEcEldynvhIuQFILp4T3wsXurU2fNV35ddl_DIY60qnjmpw0LhN9QbEbRWe3ZVneFOaI1vR8Khgbxqxa98V5JfTo7kbgy_ogmVi4s-WVXMwLbo2ip9VAH9ZvhTvmJHdXOn2MeBtrmTM16l12MC434zR6cfCIBrEARAtVjsEjVzpc7MvInvUr6-8J_9STNeSQ3CTRLo-ugY_rKAK8cP1qLstpmbPd4bzrn9khIotaMuWE27InpiEnXHIdB-EvtjFQGlFJKmUyiaCxIG4H_co9iP_WwZ6R9k3yu376ot7TvNYS5NZA_2MmSGg-H5czajKhsUUR8OZI-ZGZlOsGLN-58mvz2GEhHqU5Ua3_U0xfeENhoMV0UTRPqBldUHOMDCIAEqCWV1LXdlc3QtMjCmBg.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvYEw6Wsx0CrfdwJZ7TBsLywyO2PWNoly8mXPtAOi7lDu-nrkh0B8NBwmu7he8geoJwHQocup7Pp2bLW_T1xWj0bfwoxsgst698OnVfvY8ycdn6CYYyqnWgc5-oByUx36xtzBuMwgoiWPb57kP1ILWGGU6wIsWyh2VDEYYMom5ndQHqSA7od5-kJ41bRdXq9le8utmuUAYYPjg6UtvAaRc2p7CeUwFFvlfaf8JFv7plf4NyZ5bm321G850jJHz6dZDZuK0CgstkiYPDgF-wdS36WkjVTshHBe9RA1l2Y5vWSUuf-aZdDN5n4alZDLpsSDoR5X8FjiGDUGewzT9ni7Ung-qpDE3maNbKYKKS3r2tJDKqxwPmLorDKlESTQNB0teTfCgZBNaOKZqqVP-FMCy0hOgMNBFKhEXyFBRAKiSyzZv3ujJVqgSKP_I0KBRoi28z2i9hHNYYc6Y1du_KgIqoNCLZngnsZy9eDOygUb2CeFWPObmD7yt8VcHjmUj1DQy4CzcCNc8s8DUT8uNf7CdAtL89bNVWkIhI1oDvFRdlyEABE6IX6zm_AOrhd1fe1-qod1ZMbP6xmxr_RbCEs-ao3LVXX_4jZ77g-AYg3_WjFwPktv5Da1ILJkdhLPCxasfDtpxP0wwgQHc0SdlZvXXzxeEes7nBQflSfFa_KmtjPc9U9jZu-gQm0nXQnvyxH__XR1YOn9PNnkql3-80r0137UitekQjTXlWXfkJssS7bXAwWpo_rRqc6rEOCovk2qbJ51TydS_CYPoj4373-uBxufIi3e2dsDNs-NR03IOFQj6WlCNxY3DHix2sgdbnKNZv4kjExIImqGgzvpDeiwXkEORJlsw8gASoJZXUtd2VzdC0yMKYG.m3u8
+#EXTINF:-1,CANAL 5
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvQE-aELk4hEexSY-Oovt3XzOJOpKpBdhsYKiKkm086b5JVWiVsUjsyFiX4QMTos6kdP8vRLLah-jRTo38oZZKU2qO9LqdjQtYBVXxq8VBEGlhrlIbSC1j0JD0VUmyZfMWgNA8QLh-OwWJQqDLzE-AWsZC_CKivYQrS-JVj9I6gwnU74NnALYGSa3yepgkFRHGaPgFIzFcTZARTgewetb57ATAMlvTDjCESenSvJars0HHPEQVdyf8QNw67tffjZACg1KcU7dUu0_7bc1zY2LdZ7cvRmWpaRYgMF4Rj5IHmPIfh8YTfR1vjpDQJA7EM9yPXSrHj9afiZfebIbD3h_tFrl9SEDGigtHmaKgMSPeOoo6H8wJqSaFgl-niaNv4LE3BkKJ9NqjS0ZZaSwET_FXoZSbY_0T79GkW9-caT8QnqtwstkUiAKYKcd0wkw2CfGjoHnZe2xn4USmAUCPk1jfblO1LI4IPjXZdBQQntQRBOMm-THtufqRKhms1mp05nqNcZAK_4Ckv77nS5ml0nYIV7YitWdcPkT-ebgdVQ3VqyBJRjyMKP6VYQeaxzXvexxvH-upYAkaSse4k9nww-tmy3gxRzXXECeRUHxXRJ50Ij4VFqxWOzeNuNrGPZPrVNMhYhjbsduTfD3f8J6heIoWjhaBuG-Vt50JKLL3w49pq_jpncxXypV5gpMg8PLuSk6tXUcynaJvnzbHBBmj4Yu1I2dTqOoo8WfyH1R-gzFfprNYTxc3iEcBKg7mBzP6t7wxnjAmZyqCeItsr8VyGIkfFWGVO8kW5ebwJ1v8EoCw3O7AUN6cH_Q0ZZMGWJEmqc16qQouPXoRoMgjZhib8JpKeGDACYIAEqCXVzLWVhc3QtMTDbBA.m3u8
+#EXTINF:-1,PASIONES
+http://200.60.7.43:8000/play/a05e/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvwE2tCrmZnvuazLqrQ4WzhZ6Yl9irFedgBslVAGMjJonCcPFpCRIpRw92LqIUHDCOSeg-clGfWgkMthnP52CtAyPRI0TiHTfwVdHdjApwmB6PDUlE6WAMlClHAll4mrkzNn8uP-RMYqVoBVSXOJcRklHlHRefL1-Bdo4DjMxxOZIrd5IngtcnGgjP3jiHmC6lj-8L5bMNXb7nKj-fLIwPUc7Tv7YkWFXCfP5KPugnyPmTi3DsR8hTfb0IOf3jeZtbWhkKo9qR6t4vdroz36Bfv3LetQqMI8zZ4Tfc-H1ZKYanH7NUxO1Aq0a1x9bWIF5KBQyUJJTBbACHICHLUnU8qhy76IXeCfMq4dIhDMFfaY3jsEaMGb_WWq5w_Q2k78FTQ_-6q3o9Z8MPFGiRXBtXk47rairVMYKmWwP1OXRM7ksFa9eMlKjjorMUSuJYVcNsi3a4s_S-2u1OJO9n8eoXFJZPx-8BSYfXJKBCHZ0hJmJ1kn9QQUfrbg9KjnAYCm8nXTljgeo13rAIl4-lbqm7WpSdi_4PRRzeX6dGq-B8LUAGrVuMyl-3yqcEsKs2mImGGf0wei08m9OrBSq7D1hyXXptvyuUR5QmFEaM70RAbI5pNq21Qt1--92LR8gV1RX0fluIivFdaF153yFp7BOAP8Fy77_9bm57BJmRhc0bC7598JIAGYx-57t19-g7cLkx-GKujzr1Z8nL_2PR00u3IW1zeVxXwqRrII5NWoszRBEMVaRCRTU5JtUU18-L5kaNEjltYHi86Baek9XY-ublh9UuEctVaSmslTgLZx68R6gbwvXMKNxu62j7fjVw6ZQFx1H_eIWYZEU0ZI01ktGgzS4TAOPH03UxQ68iIgASoJZXUtd2VzdC0yMKYG.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvQEnLo-RiRUp9AfUeS4cdNLSCQtDdec577DPdrHrPJR8lmhtkHOb7C78BiFf4ON-iNGWX6nCqZeK-x75PyEYcVIx-E13fmqR9oI6YSv84YEMo_FQ1glQPDjhuekD4hmfYqjjJNaWpZBNAfsKFJ58bjOnMh7Pb41PyqyQ_xUvLPVJO6opLh9Pm33uL85Ky3kmelgEV0K3YA1YA8o2gY_phRd4UJel_uygDmGNrjyaowGkJNFeSJNmfpYl-bTfZC2Ufw3wWJi4s-9M0E2JoekjofaljPSVnUdvzjM9rkEV9XauXtORptqhvfIGSgmTXcB98W52R3_4Ee6_jpd-bEgAF40Exrh7o9usJNPhrAtW1CaI1TmpXXInVCwRgvEHYIHva7wgugTLbP9cJTzxVx4Z5sQLiKtMRzF9KpNBn2XV2d5GT67soZU311I1EzjvcAN2GK_aA9lufSaxX1oUf15EpyI-JxuBmZXZRs1Q0GC9aCkyHqu_zAL6Ev2M7ERwNpk4bNKVaT8V0w0cD7F7fojFjHebJjewGwpJRHmAEvXUt0RWvyK6bZWhiIRR3rhFCHXY6JOnKFfvLn46kmTUMzlYSH92L-YePxJJxy_3uuwQwan1izq5dD-C1aPVLPPUgtd5YL_nz6S6MdRBJvKqmOsYErNLj06hFm5cYGUUli9V_BL5tFmjwiIyKSant4IMJqy5egpuLUDLT7ombqbwXnxVpCf__ChlAQOlGfkoeLcCo1Vmr347pFyn-DJs86aBpaGZlH8uvCeQkhNNSixMGrRmZwFg8bxsxKzotQicZmbkHJGGAYrVeCpkRMWXHZzPtjktWnd9sba7xoMNPwYPP0XE8t29soKIAEqCWV1LXdlc3QtMjCmBg.m3u8
+#EXTINF:-1,NICK
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvQEzwKYlSQ6myw8vUebj9oBanTPLWB5fjGA20Plyn-UiOtjeXzungZWrPk0_26eOv0Qzqfp8eRYHqYm6Clz6vRknJZKtX5JqSsXx9JV63m-ckGmYQcCjPVC3zV5XlPdYbwwzgPzHuZqnst3QceJ5QcWBgPn2mOIB3uGFmZRe37SCIQGsz6ygdWPvWFGQVxEq9_w1KQXEeW2T88su_t4U3gFmjkSpGIGQTbR9SugTTZkDlZJ2wCFiMSpMnRcgGIYzmdHQ3aIYv-j7BCDJZ50rTojT81Crjwh5bnuo2WT0KDh2BIdK2kNH8-upCPdaZDoLkKnoIqKP6tqt64XN51NuSNyzxlGSEJaW_iMHliuO7UZTJhUG8phwbBz9B5AiQvnLALeWd6htEiAlFPdtJrZTWof3TuA0vhhWtQnI1TvqkHRZ0rSP6NlLOP3OhII5cuA2L3e2uU0iuWYlgG1dbVp2ox5x1t0hMixkyFCfk9YUIW2YahftVs53R2RaSdKbwfOH4pawjeEHI3axDrMJTj4SxMhwNsuUKc2W6lomNsSm5O3ob0FcCJZXAp-yMfY0S2YNLLaQnmaONA_HwPBDbBiwLOx7v7bcu74ttGdhfVmugH2XkfxeUC5EzV5-10eemGa3w9eVdLTLBqKDvp5dl7OQLCUMf_4qyk-6F4ZkfhXmQ5XYwcwyZhDnOs1SXu3t1YdCSvUp9CCZI_V4I2whHLPsqLQ_qtZbqDag-sHUprNXi5uuSYzwvPeLDAeSTMBijKxQ6GWQQiTGO5lekFfflgxrPkbd4M1Rpmcc13hQg6xjftR-BHaDu7lusokwLTkJaF9fmK-dX7ZzxoMl77HRkBzB9oaH8grIAEqCWV1LXdlc3QtMjCmBg.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://200.60.7.43:8000/play/a043/index.m3u8
+#EXTINF:-1,CARTOONITO
+http://45.5.119.100:20000/play/a08s/index.m3u8
+#EXTINF:-1,RCN NOVELAS
+http://45.5.119.100:20000/play/a0a8/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://45.5.119.100:20000/play/a08u/index.m3u8
+#EXTINF:-1,TOONCAST
+http://45.5.119.100:20000/play/a0au/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://45.5.119.100:20000/play/a08t/index.m3u8
+#EXTINF:-1,SIMPSONS 24 HORAS
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvcEjZjOG_weJ3nw3lpRRGC6GJkZH7IE1ddviC7BATgEJSbZQt3zLex8w3NinCkaFlxkosbUpG6bDb7NGBe1ZaBNGA0Ow9QR6fhal5hcJ-XMciLTl7RtctbWRtULdwrot3HFRD4LHJQm5viYWcZ3VS8qreNrtT8O2UDVI2QSLwooFgn0o-0Eew6OtXWQc92N7F-L4WmiPsZt8VFJjQS5dHD0W2J1HlX8TDuO1oijX3pTNOWrXhhCtwkysBSstAJ19X9SVPHMOaFx_jd9PzbMtHHcF7GKRbDoU0NdOS_dRruh8ei6j1qEcVltTQKyflrVm-_5_23COcKJM8HzmuJciprF01AWLk38jW1nBA9sd_eBKj3hRrivGgYLcEp9O6Ct1wv9DbmmpboSiIfUfqai_PxfPHefeB1VISfSAjOWBY6m_TnZzfJQWsbt5j5VYNY--HZOrEIQtwHLk8fXAbCOVSwLiuV2GEvxqRmcu5u46R4dYvyXyR0tEr7ymfbpSd9_gpdtqw8Cxq_sclnUERI8U5peGzzUaRLnuoIL9P_ljBO2TuppCSMP19Z76gsdznVAuiGEKfTPBRiV3c9jNx13n2Mr7BuPUAtoWlFVB5IjKrTMzODngvbnxS0SzU4-LPlgBAT-GqHrVRqWXigq4SbC1fWkWsR1ORDVw-eSj06cbsa1lCmLkxuNxit3mR1YGX6lbeMLXeSMRFIec3hHZvvhKQEnpg1pjEmKZ9m_ZExtzyTZNI9zZqlY2UUCP4yi5cTuVBV63unSiFqDRevi9i4dHONxUbm8H76TNgX7qHxMu7nGmtEh6RbCHUNSJ1z5DJgLnynK2jnBsqkiwxoMxHt2hiLKLOjBXInQIAEqCXVzLWVhc3QtMTDcBA.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://200.24.141.2:4000/play/a2ly/index.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://190.83.119.67:8000/play/a01k/index.m3u8
+#EXTINF:-1,HISTORY CHANNEL 2
+http://200.24.141.2:4000/play/a2l2/index.m3u8
+#EXTINF:-1,ID DISCOVERY
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CpwFiE_9tusMy4kIo_qoN8T2mz2pBRsBD8DRSZAnOQNDAedkePdinyRad5xnagImmOHK0d-Fh43dJsLmy-9yvg2_UkFn65ADG5u6UXc3MUUl-ZkFgb0Hb8YmGpqrur67zZWOUaYEupIqxX2FhqqDRJ6Jry__AdmBDhdMNBln54vnQ7g94PeC-sae56WcXt-3hAtkyEFKmPQsPxzOtvP0MBE4abw0cvj9qUz44ucY7qPUV9Aksn9rITt2eDy5x6PzCxlWGeuiDjWcNh_kuuSorK0sOMZRgZrCEj8lUVoLDDcsO1tiyYlruHjOIXMb7nx-F68C69MTXF4Yup1mZXgApyk5XNIIx0iaZtBXtj5LL8rvrijkM36krRKyGohmWmSpKF1IM0lnAVm_BqzE_xnl-UFVwk-RlTfy0w2skexAibvRrsiEm8mJuDTk1v-LjBO-0XQCA-EW1ZlW_2moJUJaWGncKliVMX_Rl9hGSur6AqwbgM77DE1GAAxIdY6v-BiavxZjGdRjSxmy4uRvczbG6npG040rIXuPlDimVuxmBIMmFnK48Atj25GLn_dGnsGFtnfUqsUrhKBlx2dqu1cn2OBxVbvAEIdiqO7amQ5otLZrQ2-ZKAUTIubdNo0-WtG2cq8SDplOhxnVJq7YHvzFhHmuPkPU9X0HHOZYVn0-DzpGqKk5hBY0r4iSUl5rfnR6HOs1gld6z2hRF6sVIZasPhOP6ridzPTBYelrkTRWiM_RkqdxZJhU1tSmC3uUaFFE0ImMWwWfa-hx2to6vZUlQZnDworpIpB3zEpEFZ1ORDHO-MFh6X_uXH5uYn8TQx9Na_UWl7s18BdPqU7M1nsic1NhkfhN1phXXpnoNFPP7HiSDQxM8FX03amaMHVnIgUaDOw7ZLRNqgsM1uUx0yABKglldS13ZXN0LTIwpgY.m3u8
+#EXTINF:-1,NATGEO
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvgELrRNZKU_KW1va2E0G2bu7Rh15SkPF2rI_Lvyxk8PdORJOmn8ACfW-xi8RU5XNZtuxdd1lYQ_2zMXa-J8xzyJRJhvJeJZeZcWuJnC42OMM5KSia7zPLqI08N2o6uVhUn4I50Jcp3L6i0AXIFUG27oYvsM8EOZcp8c8TsbAR8L1viyVwWIrcqtLZjcmpFOWwUh7PcDvp5FTY1yKJgmPeSLFWPE_Ywf7ck3Ah4wehKoVJJC7tREvVw9L9cKS2NPJxDF1DXm4mFiF7BTizjJm2IVG5kiGpAPkEaQCD6AGBTJWMqVgX3i0fIVQ2zofNrSTo6SUGomzOHpaI-eNtTelhbB6Y7HrQHT8wOh9KoPn0QHgmZSL2dDuf7ItKw2q2dfH_Nn_v1HZLF1rvKYTLs-_IJuiKWWCYBRUW_EAni_j2OF8PurxS0WnMyWV1bGMo2LUVlTnfPDoIXZYhbSUyBl0Lk3IBfDkOwtyKxgAgLPxq6paOTN2K1JLxVwcjnwyY2eIOFGeFhjTmla0tPNC_T5B8yJPBysUofPILxUCsqJgqv4Cp4phAde1MHs9y6UL6NRy96KSy6fpMzU4Luqj_IUCQzNnAGRMsS79aIvket4jyc73m3DpCIu48BxjCjhax4KIkXYN7MWg6bFuVzCnAWUUSZZkDMfCzP5hqhI8YqxiUOhs02fe-oOWbc_OgKegjtbloXN8LU0lkeEDaNkExK20wce7uLmF7L9T2cEqUpAPOdi6fcUUw5wQt7y4p06TLHTUMA4AZBoQcM_jFJMquOV47NMk8ZY8YvE_p99xvFI19D-nBvUkDYHMpAys_rElqnKi29BlXsvVPttXJwaDNPiQS4poKo0z7YieSABKglldS13ZXN0LTIwpgY.m3u8
+#EXTINF:-1,DISCOVERY H&H
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CqEF3mBq_kAOLdthuUTQoyEA87p6KP3MtP2z-qXQi_AYEyMWog77QLBmVIVUMYlRkvI8Tt5VV40zLRiD_kjq_pPM-s_yDcgxrj8-HKEyeN7JJuF1hawa8nJ9HVYc2f5Kh4x8hWnKlpZQccg0lmtbLUzge0MxIYDbjRMlYrWVxwxBV2g-Pl6HtPCRWunUSbmRjHvBpnYpcMGHwRixjtzctXJkTYpwPFflrTXlJ_yULLr28CRuHj1VpuIFzVFQgFTmQ6OS6fKf-AA84PbK2XCXmf0DI026hGR_NInhQu5CpivFp_51bwpe6Dx3QMz1Pg3mRi4JbQUQPKr3NVq2a1RWrbO5VIWkIH3nTZ_cESel2q34lkkkRe74afJIieyKnDDpn3F_He0DUERHGb9EjPfDvSOlNeTJMeR4hl002oMjL1WYEz_kLgRwhGZlUY1ULGrrogOFMtH0IP1znWfnmd27v3_MRMXfwrD9BQ9fExSRq8HEKs4TzWybm4rWg9BXcdq5YIZVS6QsdSxgLfVQiEl2XY2n_yLn6kVgYcIKBZwVbJV-COPVd0OrrjeAjodws_R-RRtnlALwVhAy-KVMEx4SvlbKRTZytk6bx-s9veNC6XJjexb0jVR_AXuglrDUbmJ3LQyY_YWLT_K-_n8E9mpdUUW7Nj-m3xY4PDyZkSecIyc72PhIONvyf6rf7gHOooVW6uAxfiMoV3OjSl9l5TtDdH3rR6nFq62SwJuWbfsB8bTp-cE8bjcV9sQF73m1pcBDK0I5usqB0uo4Nd6_I-MWYJDJlgeOJo9I-yLphCmkOlIWHdnrwyD6k1H-Tjap720wnfLaP11LPzZM-OGgTBHM4p9TsmeYemmP8da5KWCWiIaEcty4-Qm-BYQdRlIyIE0ZKd4YjRoMFRCAS8LFc_T_psh-IAEqCWV1LXdlc3QtMjCmBg.m3u8
+#EXTINF:-1,ANIMAL PLANE
+http://200.24.141.2:4000/play/a2ek/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://190.83.119.67:8000/play/a01r/index.m3u8
+#EXTINF:-1,THEATER
+http://190.83.119.67:8000/play/a03h/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://200.24.141.2:4000/play/a2ks/index.m3u8
+#EXTINF:-1,TLC
+http://200.60.7.43:8000/play/a02e/index.m3u8
+#EXTINF:-1,TURBO
+http://200.60.7.43:8000/play/a039/index.m3u8
+#EXTINF:-1,TNT
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CqMFLSWtlpsw3PUplQ7p6SIWqgd0vi6OCpPoeCIMNm7NR2S8it07_f9ixCuWk0rWCeodhtrXZdOU9FwMRZODYoancMr7rF3JbCiR_rLlm-yyKWPsoJlL7Ylcv1nWemUo8QG24BN7gLc2_9vmOkYc9FDqdeuGV1hzdIsK9ra7UI5YYtq46CTU2Mm1T-RKf4g3lSZz7A581itSc9QfyqqrnXrtz_dFEbw0nlFg3vnhqU2YhnEFntHSfTT_q9KhRY0XMBemccXCYzNS9chJ6OGIlFpCVDbUWWPJCfXCZtaR_XAAxH8BxXxFR0ASpPAQR7al8x6V4R88ezLgTSODGbS_APCtkB_clxmQEXaVRL3Us1K0WeJkw1cFiLCp4PtWgvMUSswA6Q9zOFBRcXA0rgq_CMis6VxlS6Q1KAA1vVgn8APU-bTMQrIEYtVj_LM1sCORuyUaa-OSToQVaYya5U6aPGAFCJ1Z7CcMzCTG38PayfGRQJ5eFqIoQY2JDbPLrlzFcobSkfXeEebSm6R9Rr0eiIeI-dvTVKMODnNpVa7tSx88jYXnisfGci86GdffE4UAmrpM3H-xqeVyp2sfwdwJwndpyy2KXs0_S6Sdvw1rJ6Tebi1FnUao0JPSB4lpJQfQ1yiQde2jarmHBk_2KeF3XPDqdkuADsycQ9pFi3SXMTz9lFl_-bbEdD_ajZd2VSJCPHjO1BFGQHN6t9FhEnQkCUc4f5HDIRYPQc7cVZw0PkvRwfQBPRYk7NhMap6S9lZO0nkgGMpPsKb_oXTBgS_AVynVUXXApTYP1X36uJJBOlN0YTFddIlFM0lfR1klR89_yCPo9aF4Oxr0yJ58D0Kd1YljOsDNF2OrCcYf-VrAzO_6HWVX15NCJ8APDKOPsLHkCG9suAKdGgzmG4owWJ7DYzDi37sgASoJZXUtd2VzdC0yMKcG.m3u8
+#EXTINF:-1,TNT SERIES
+http://190.83.119.67:8000/play/a040/index.m3u8
+#EXTINF:-1,HBO
+http://200.24.141.2:4000/play/a2jc/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://200.24.141.2:4000/play/a2ov/index.m3u8
+#EXTINF:-1,HBO 2
+http://200.24.141.2:4000/play/a2jd/index.m3u8
+#EXTINF:-1,HBO +
+http://200.24.141.2:4000/play/a2ox/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.83.119.67:8000/play/a00p/index.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://190.83.119.67:8000/play/a00s/index.m3u8
+#EXTINF:-1,HBO + HD
+http://190.83.119.67:8000/play/a00r/index.m3u8
+#EXTINF:-1,HBO EXTREME
+http://190.83.119.67:8000/play/a00t/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://190.83.116.229:9010/play/a021/index.m3u8
+#EXTINF:-1,CINE LATINO
+http://190.83.116.229:9010/play/a051/index.m3u8
+#EXTINF:-1,UNIVERSAL TV
+http://191.98.171.198:4000/play/a006/index.m3u8
+#EXTINF:-1,UNIVERSAL STUDIO
+http://200.24.141.2:4000/play/a2n0/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://191.97.14.63:8045/play/a018/index.m3u8
+#EXTINF:-1,UNIVERSAL STUDIO HD
+http://190.83.119.67:8000/play/a01q/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://190.83.119.67:8000/play/a046/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDI HD
+http://190.83.119.67:8000/play/a03r/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://190.83.119.67:8000/play/a03q/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://190.83.119.67:8000/play/a03n/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE2
+http://190.83.119.67:8000/play/a03o/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY
+http://190.83.119.67:8000/play/a03p/index.m3u8
+#EXTINF:-1,UNIVERSAL +
+http://190.83.116.229:9010/play/a053/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://191.98.171.198:4000/play/a009/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://190.83.119.67:8000/play/a038/index.m3u8
+#EXTINF:-1,STAR CHANEL
+http://190.83.116.229:9010/play/a04g/index.m3u8
+#EXTINF:-1,CINECANAL
+http://200.24.141.2:4000/play/a2k6/index.m3u8
+#EXTINF:-1,CINEMAX
+http://200.24.141.2:4000/play/a2kr/index.m3u8
+#EXTINF:-1,SPACE
+http://200.24.141.2:4000/play/a2n1/index.m3u8
+#EXTINF:-1,SPACE HD
+http://190.83.116.229:9010/play/a05e/index.m3u8
+#EXTINF:-1,WARNER TV
+http://191.97.14.63:8045/play/a047/index.m3u8
+#EXTINF:-1,WARNER TV HD
+http://190.83.119.67:8000/play/a039/index.m3u8
+#EXTINF:-1,WARNER
+http://190.83.116.229:9010/play/a04h/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://190.83.119.67:8000/play/a03b/index.m3u8
+#EXTINF:-1,FX
+http://191.97.14.63:8045/play/a02z/index.m3u8
+#EXTINF:-1,FX HD
+http://190.83.119.67:8000/play/a01x/index.m3u8
+#EXTINF:-1,FX
+http://200.60.7.43:8000/play/a00x/index.m3u8
+#EXTINF:-1,AXN
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CpcFAof2I1NtV1QDi6pZBeP65FaohWq9nhA29UiLzxHX5dwftgb0YGsmY1_qvHM0rX0eVJXU-T_2oFNOmUv1kC12jLywoyKSZ7CEwSYhOseGOx9UyVEMBvSu6YjQAAVMHrpR27CcTHV13e9ifczzguXmGD8K71t2jNpThhwNW7pQ-_FP3vfS7Bnwi-Li4OdYJlgQWOpSD5nULz8MIvpnVI5HztIrs2OJJTNDd-WXT7GuMISqw9juUV6sMkzzRz62bEzFQ1Rs8q9SKCk6eJWd9Ur8rwnpyS17fMFVGWz5H_JCWlylyM4jx-Sy9m7943C1Q51cPPmJ2_ozKaSGk4nSosNiWss-inxRDGo8r_v1C4yjZI7lMDT_fuF2seWP_qN62llWwNWYmVlbtWA-iP6hNUoK4fc_u1X-6ri3l0VjMBR1SllU4YCLSsxEDpoAWVTuYR-CqErYO5zcFmAp6_Qu-WyC1K22sWa-LWmTCKdissyVfhIQXB1wUIuvv9XqObDUUQAio1gTqy3ffDkDL7kuldsdqD7DKmOejbv-1T3MDZnYJq4tmI4Q1jovTFtgEM9AL_s4zJosf_VQzvzNNSnmeMJBzs2DMtld9Vh0mntBoHk8bQcL4mGP03iWWPSgYb9KnrW6GpRD9ODBlYYBWbLLjjPic4dPAg2FzFgvL8wWlYhIKiKahji1E9Ltg15jYRHEyPNFhIrMVgP1AEZSR8mG5dRnaiLJ8uz_7G9zWKMbTsirUe3v8on0L54CmEM5Kn1p2FgDfaV8sRF99Kh7hIVHY9qckm9uNMVABfUKOPUoVFdLp187tBMledEdQfRUJBAL3LiDAQGQj-puMEknoE5t-iL587hXJSh2SafavfG1uWr_hgqyO_D-7djGGgxKMnc-fCTYwKkgbq0gASoJZXUtd2VzdC0yMKcG.m3u8
+#EXTINF:-1,PARAMOUNT
+http://200.24.141.2:4000/play/a2kq/index.m3u8
+#EXTINF:-1,PARAMOUNT HD
+http://190.83.119.67:8000/play/a03z/index.m3u8
+#EXTINF:-1,AMC
+http://200.24.141.2:4000/play/a2mb/index.m3u8
+#EXTINF:-1,AMC
+http://190.83.119.67:8000/play/a01v/index.m3u8
+#EXTINF:-1,A&E
+http://200.24.141.2:4000/play/a2oq/index.m3u8
+#EXTINF:-1,A&E HD
+http://190.83.119.67:8000/play/a01u/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://200.24.141.2:4000/play/a2k5/index.m3u8
+#EXTINF:-1,GOLDEN PLUS
+http://191.97.14.63:8045/play/a03u/index.m3u8
+#EXTINF:-1,GOLDEN PREMIERE 2HD
+http://190.83.119.67:8000/play/a00h/index.m3u8
+#EXTINF:-1,GOLDEN PREMIER HD
+http://190.83.119.67:8000/play/a00g/index.m3u8
+#EXTINF:-1,SONY CHANNEL
+http://200.24.141.2:4000/play/a2lb/index.m3u8
+#EXTINF:-1,SONY CHANNEL HD
+http://190.83.119.67:8000/play/a03a/index.m3u8
+#EXTINF:-1,SONY SERIES
+http://190.83.119.67:8000/play/a01z/index.m3u8
+#EXTINF:-1,SONY HD
+http://190.83.116.229:9010/play/a04i/index.m3u8
+#EXTINF:-1,MTV
+http://190.83.116.229:9010/play/a09a/index.m3u8
+#EXTINF:-1,MTV+
+http://191.98.171.198:4000/play/a008/index.m3u8
+#EXTINF:-1,D PELICULA
+http://200.24.141.2:4000/play/a2n2/index.m3u8
+#EXTINF:-1,ESPN
+http://200.24.141.2:4000/play/a2j8/index.m3u8
+#EXTINF:-1,ESPN HD
+http://200.60.7.43:8000/play/a06v/index.m3u8
+#EXTINF:-1,ESPN 2
+http://200.24.141.2:4000/play/a2k2/index.m3u8
+#EXTINF:-1,ESPN 2HD
+http://200.60.7.43:8000/play/a06x/index.m3u8
+#EXTINF:-1,ESPN 3
+http://191.98.171.198:4000/play/a01n/index.m3u8
+#EXTINF:-1,ESPN 4
+http://200.24.141.2:4000/play/a2mw/index.m3u8
+#EXTINF:-1,ESPN 4HD
+http://200.60.7.43:8000/play/a046/index.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://190.83.119.67:8000/play/a01l/index.m3u8
+#EXTINF:-1,TYC SPORT
+http://200.24.141.2:4000/play/a2jh/index.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://200.24.141.2:4000/play/a2kl/index.m3u8
+#EXTINF:-1,FOX SPORT 2HD
+http://200.60.7.43:8000/play/a06z/index.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://200.24.141.2:4000/play/a2op/index.m3u8
+#EXTINF:-1,FOX SPORT 3HD
+http://200.60.7.43:8000/play/a070/index.m3u8
+#EXTINF:-1,CLARO SPORT
+http://191.98.171.198:4000/play/a03s/index.m3u8
+#EXTINF:-1,TIGO SPORT
+http://190.83.119.67:8000/play/a03d/index.m3u8
+#EXTINF:-1,D SPORT
+https://s12.flowerscast.com:999/hls/directvlive.m3u8?md5=jAwsaWE14djpm6EweHx3Ew&expires=1681174089
+#EXTINF:-1,WIN SPORT +
+https://sz58pstqfmpq.cdnexpress42.net:8443/hls/buvwz0lt.m3u8?s=Az691ytYni1UgTtF5sm1Kg&e=1681189067
